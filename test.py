@@ -1,5 +1,7 @@
+import math
+
 def main():
-    myNum = 10//3
-    print(type(myNum))
+    myNum = math.sqrt(16)
+    print(myNum)
 
 main()
